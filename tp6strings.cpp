@@ -4,7 +4,7 @@ using namespace std;
 
 int main (){
     string pais, medallista_oro;
-    const int tipo_medallas = 3; // oro plata bronce
+    const int tipo_medallas = 3; // oro plata bronce jajaj
     int v[tipo_medallas] = {}, mayor = 0,cont = 0, uru;
     cout << "Nombre de pais: ";
     getline(cin, pais);
