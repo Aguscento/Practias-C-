@@ -37,6 +37,7 @@ int main (){
         cout << "Nombre de pais: ";
         getline(cin, pais);
     }
+    // esto lo puse para ver como funciona github
     cout << endl << "Pais con mas oro: " << medallista_oro << " con " << mayor << " medallas de oro." << endl;
 	cout << endl << "Cantidad de paises con medallas: " << cont << endl;
 	cout << endl << "Medallas de uruguay: " << uru;
