@@ -1,0 +1,12 @@
+# ninja log v5
+2	415	6784254640835812	CMakeFiles/proyecto.dir/main.cpp.obj	5e53fa0e0152ec34
+415	540	6784254642052559	proyecto.exe	aa1b4b0859459c3f
+13	402	6783905582790347	CMakeFiles/proyecto.dir/interfaz.cpp.obj	63b60f083b31aea1
+2	443	6784295014844314	CMakeFiles/proyecto.dir/interfaz.cpp.obj	63b60f083b31aea1
+443	595	6784295016314711	proyecto.exe	aa1b4b0859459c3f
+2	406	6784295544868883	CMakeFiles/proyecto.dir/interfaz.cpp.obj	63b60f083b31aea1
+407	530	6784295546085598	proyecto.exe	aa1b4b0859459c3f
+1	437	6784299394131723	CMakeFiles/proyecto.dir/main.cpp.obj	5e53fa0e0152ec34
+438	648	6784299396359824	proyecto.exe	aa1b4b0859459c3f
+2	416	6784299691767965	CMakeFiles/proyecto.dir/main.cpp.obj	5e53fa0e0152ec34
+417	538	6784299692964819	proyecto.exe	aa1b4b0859459c3f
