@@ -1,0 +1,7 @@
+# ninja log v5
+1	328	6796268409512593	CMakeFiles/final.dir/main.cpp.obj	bb64a4f7b145950a
+2	295	6796271172013287	CMakeFiles/final.dir/funciones.cpp.obj	b53d957dd7e3616e
+295	394	6796271173000655	final.exe	978dade6055d1781
+9	307	6796272973959177	CMakeFiles/final.dir/funciones.cpp.obj	27f337e30450818
+2	352	6796272974407698	CMakeFiles/final.dir/main.cpp.obj	e7fb29544a7b18c7
+352	433	6796272975234300	final.exe	978dade6055d1781
