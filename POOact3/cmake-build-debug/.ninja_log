@@ -1,0 +1,14 @@
+# ninja log v5
+1	519	6834933093006573	CMakeFiles/POOact3.dir/main.cpp.obj	f35905041754fb83
+553	641	6834933094214836	POOact3.exe	df755fbbcb09ebee
+10	544	6834933093275848	CMakeFiles/POOact3.dir/Evento.cpp.obj	1b5b717bff875c78
+8	443	6830920545001244	CMakeFiles/POOact3.dir/Invitados.cpp.obj	ddbcfc7847f968d9
+1	200	6834933539900488	build.ninja	ddb656459c952966
+8	552	6834933093345890	CMakeFiles/POOact3.dir/Invitado.cpp.obj	41de1eeaa6c24dd6
+2	529	6834981779096019	CMakeFiles/POOact3.dir/main.cpp.obj	5c02bfcc705b7b81
+25	551	6834981779325404	CMakeFiles/POOact3.dir/Evento.cpp.obj	403ae9dd93dc34de
+23	563	6834981779445070	CMakeFiles/POOact3.dir/Invitado.cpp.obj	63bae73976346aca
+564	684	6834981780636189	POOact3.exe	df755fbbcb09ebee
+2	461	6835057918699731	CMakeFiles/POOact3.dir/main.cpp.obj	5c02bfcc705b7b81
+8	495	6835057919049078	CMakeFiles/POOact3.dir/Evento.cpp.obj	403ae9dd93dc34de
+496	595	6835057920016217	POOact3.exe	df755fbbcb09ebee
